@@ -1,0 +1,16 @@
+malbolge
+_malbolge_fast
+_mal_ppm_compiler
+malbolge_fast
+*.o
+*.out
+
+_malbolge_fast.c
+_mal_ppm_compiler.c
+
+/malbolge_240_ppm_frames/
+
+.DS_Store
+__pycache__/
+*.pyc
+/tmp/
