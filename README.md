@@ -2,6 +2,10 @@
 
 **GIDD: A Dual-Layer Malbolge '98 Video Codec & 8x8 Bayer Halftone Cinema Engine** by Gaston Dana (**GasMan** / `@gaston_pay_up`)
 
+### GIDD in Action (1080p 24 FPS Malbolge Halftone Cinema)
+
+<video src="https://github.com/gastondana627/GasMan-In-Duantes-Den/raw/main/malbolge_100pct_pure_1080p.mp4" controls muted width="100%"></video>
+
 ## Overview
 
 GIDD scales Ben Olmstead's strict 1998 Malbolge virtual machine across a 240-frame, 24 FPS video clip. Malbolge uses a base-3 trinary architecture, a 59,049-word memory ceiling, the `crz` trinary operator, `rotr` (right rotation), and post-execution `xlat2` self-encryption. The checked-in 240-program archive contains 11,690,759 non-whitespace source characters, or about 11.7 million encoded Malbolge words. This is the archived source-word count; the exact number of executed instructions depends on each program's control flow.
