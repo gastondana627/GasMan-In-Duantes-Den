@@ -2,9 +2,10 @@
 
 **GIDD: A Dual-Layer Malbolge '98 Video Codec & 8x8 Bayer Halftone Cinema Engine** by Gaston Dana (**GasMan** / `@gaston_pay_up`)
 
+
 ### GIDD in Action (1080p 24 FPS Malbolge Halftone Cinema)
 
-<video src="https://github.com/gastondana627/GasMan-In-Duantes-Den/raw/main/malbolge_100pct_pure_1080p.mp4" controls muted width="100%"></video>
+[▶ Click here to watch the GIDD Exhibition Video (MP4)](malbolge_100pct_pure_1080p.mp4)
 
 ## Overview
 
